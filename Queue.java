@@ -14,8 +14,9 @@ class Queue {
 
     }
 
-    // Push element x to the back of queue.
+    // Push element x to the back of queue. 
     public void enqueue(int x) {
+        stack1.push(x);
 
     }
 
